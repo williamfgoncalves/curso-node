@@ -1,0 +1,15 @@
+para iniciar o projeto com NODE + MongoDB
+
+cd bin
+nodemon \server.js
+
+Banco de dados usando o MLAB
+Nome do banco: nodestotage
+Nome de usuario: wfgoncalves
+Senha do banco: pabx1305
+
+Connection string: mongodb://wfgoncalves:pabx1305@ds036079.mlab.com:36079/nodestotage
+
+IDE para monitoramento do mongo: https://studio3t.com/download-thank-you/?OS=win64 - 3T Studio
+
+Usamos o mongoose para fazer o acesso a dados em banco via JS
